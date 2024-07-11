@@ -36,8 +36,8 @@ Utilize palavras-chave populares e relacionadas ao tema do texto.
 
 
 Formato das Tags:
-As tags devem ser separadas por um espaço e uma vírgula.
-Utilize no máximo 10 tags, sendo que termos compostos, como por exemplo: "frases de motivação", os termos "frase" e "motivação" serão contadas cada uma como uma tag, sendo ignorado a preposição "de".
+As tags devem ser separadas por uma vírgula.
+Utilize no máximo 10 tags, sendo que termos compostos, como por exemplo: "frases de motivação", os termos "frase" e "motivação" serão contadas cada uma como uma tag, sendo ignorado a preposição "de", ou seja, haverá apenas 9 termos separados por vírgulas a partir de então.
 
 Exemplo correto de Tags:
 Para um texto sobre motivação: motivação , inspiração , frases de motivação , citações inspiradoras , frases famosas , sucesso , determinação
